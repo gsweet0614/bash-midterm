@@ -1,0 +1,5 @@
+Feb 26 10:00:01 server kernel: WARNING Disk space is low
+Feb 26 10:05:15 server kernel: ERROR Failed to load driver
+Feb 26 10:10:30 server kernel: CRITICAL System overheating
+Feb 26 10:15:45 server kernel: ERROR Disk read failure
+Feb 26 10:20:00 server kernel: WARNING High CPU usage
