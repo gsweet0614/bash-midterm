@@ -1,0 +1,24 @@
+
+=== Log Analysis - Wed Feb 26 11:05:48 EST 2025 ===
+Counting occurrences of error levels...
+   1 CRITICAL
+   2 ERROR
+   2 WARNING
+
+=== Log Analysis - Wed Feb 26 11:05:56 EST 2025 ===
+Filtering logs by error level: CRITICAL
+Feb 26 10:10:30 server kernel: CRITICAL System overheating
+
+=== Log Analysis - Wed Feb 26 11:06:03 EST 2025 ===
+Filtering logs by error level: ERROR
+Feb 26 10:05:15 server kernel: ERROR Failed to load driver
+Feb 26 10:15:45 server kernel: ERROR Disk read failure
+
+=== Log Analysis - Wed Feb 26 11:06:12 EST 2025 ===
+Filtering logs by error level: ERROR
+Feb 26 10:05:15 server kernel: ERROR Failed to load driver
+Feb 26 10:15:45 server kernel: ERROR Disk read failure
+Counting occurrences of error levels...
+   1 CRITICAL
+   2 ERROR
+   2 WARNING
